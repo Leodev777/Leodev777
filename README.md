@@ -4,5 +4,5 @@ Particularmente como QA me gusta mucho exprimir estratégicamente las posibilida
 
 A lo largo de este tiempo me he adaptado a diferentes herramientas y tecnologías desde aspectos básicos de QA como test cases, documentación técnica, reportes como a tecnologías un poco más avanzadas como Cypress, JavaScript, Selenium, Java, Python, SQL, MySQL, SQLServer, Postman Manual y Automation, Git, BDD y TDD: Cucumber, JUnit/TestNG, herramientas de tracking como TestRail, Jira, Redmine, Azure DevOps.
 
-En lo personal, soy una persona proactiva y entusiasta de la tecnología, siempre con la curiosidad de un eterno aprendiz, me mantengo actualizado con las últimas tecnologías emergentes de mi sector buscando optimizar los procesos y también mi trabajo, mi enfoque va en adaptarme a nuevos retos.
+En lo personal, soy una persona proactiva y entusiasta de la tecnología, siempre con la curiosidad de un eterno aprendiz, busco de mantenerme actualizado en el sector buscando optimizar los procesos y también mi trabajo.
 
