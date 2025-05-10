@@ -3,11 +3,11 @@
 <h2 align="center">Sobre mi 😃</h2>
 
 <p>
-  Hola ¡Bienvenido! Soy Leonardo Iglesias, QA con más de 4 años de experiencia en proyectos nacionales e internacionales donde participé en proyectos de tipo bancario, educativo, empresarial, donde logré desarrollar todas las habilidades necesarias para detectar la presencia de desvíos en el sistema, logrando ahorrar tiempo y dinero a la empresa. El estudio y práctica constante me han permitido siempre presentar soluciones para el cumplimiento de plazos de entrega. Me he encargado de ir presentando el proyecto, en lo que respecta a mi rol, a clientes, así mostrando la calidad del proyecto desde su nacimiento.
+  Hola ¡Bienvenido! Soy Leonardo Iglesias, QA con más de 4 años de experiencia en proyectos nacionales e internacionales donde participé en proyectos de tipo bancario, educativo, empresarial, donde logré desarrollar todas las habilidades necesarias para detectar la presencia de defectos en el sistema, logrando ahorrar tiempo y dinero a la empresa. El estudio y práctica constante me han permitido siempre presentar soluciones para el cumplimiento de plazos de entrega. Me he encargado de ir presentando el proyecto, en lo que respecta a mi rol, a clientes, así mostrando la calidad del proyecto desde su nacimiento.
 </p>
 
 <p>
-  Particularmente como QA me gusta mucho exprimir estratégicamente las posibilidades de detectar desvíos en el sistema tanto en frontend como backend, utilizando diversas técnicas y manteniendo siempre la mirada crítica del cliente y del usuario final. Este contacto me ha llevado a desarrollar habilidades de comunicación asertiva tanto para compañeros, jefes y clientes, logrando aportar a la creación de un ambiente dinámico y enérgico.
+  Particularmente como QA me gusta mucho explorar las posibilidades de detectar desvíos en el sistema tanto en frontend como backend, utilizando diversas técnicas y manteniendo siempre la mirada crítica del cliente y del usuario final. Este contacto me ha llevado a desarrollar habilidades de comunicación asertiva tanto para compañeros, jefes y clientes, logrando aportar a la creación de un ambiente dinámico y enérgico.
 </p>
 
 <p>
