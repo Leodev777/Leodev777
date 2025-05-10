@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  A lo largo de este tiempo me he adaptado a diferentes herramientas y tecnologías desde aspectos básicos de QA como test cases, documentación técnica, reportes como a tecnologías un poco más avanzadas como Cypress, JavaScript, Selenium, Java, Python, SQL, MySQL, SQLServer, Postman Manual y Automation, Git, BDD y TDD: Cucumber, JUnit/TestNG, herramientas de tracking como TestRail, Jira, Redmine, Azure DevOps.
+  A lo largo de este tiempo me he adaptado a diferentes herramientas y tecnologías desde aspectos básicos de QA como test cases, documentación técnica, reportes como a tecnologías un poco más avanzadas como Cypress, JavaScript, Selenium, Java, Python, SQL, MySQL, SQLServer, Postman Manual y Automation, Git, BDD y TDD: Cucumber, JUnit/TestNG, herramientas de tracking como TestRail, Jira, Redmine, Azure.
 </p>
 
 <p>
