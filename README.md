@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,java,py,js,mysql,sqlite,git,github,docker,materialui,postman,eclipse,vscode,linux,windows,pycharm,ubuntu,selenium,cypress,discord,django,docker,gherkin,jenkins,gradle,graphql,idea,maven,nodejs,npm,notion&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,materialui,wordpress,py,django,java,go,rust,nodejs,graphql,mysql,sqlite,mongodb,postgres,selenium,cypress,gherkin,postman,docker,jenkins,git,github,gitlab,gradle,maven,vscode,pycharm,eclipse,androidstudio,idea,sublime,linux,ubuntu,windows,bash,azure,gmail,notion,discord,bots&perline=12" />
   </a>
 </p>
 
@@ -42,4 +42,3 @@
     <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
   </a>
 </p>
-
