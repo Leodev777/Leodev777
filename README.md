@@ -41,19 +41,12 @@ Soy un **QA Engineer** con experiencia en **Testing Manual y Automatizado**, ade
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
 🔹 **Automatización de pruebas web y mobile**  
 🔹 **Pruebas de APIs REST y sistemas integrados**  
-🔹 **Frameworks de testing reutilizables en Selenium + Pytest**  
+🔹 **Frameworks de testing reutilizables en Selenium**  
 🔹 **Aplicaciones internas para manejo de datos y reportes QA**  
 🔹 **Proyectos de exploración con blockchain (en curso)**
 
-> 🎯 Revisa mi sección de [repositories](https://github.com/Leonardev777?tab=repositories) para ver código limpio, automatizaciones y apps reales.
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="h
